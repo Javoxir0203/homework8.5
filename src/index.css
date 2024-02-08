@@ -25,7 +25,7 @@ body {
 
 .grig {
     display: grid;
-    grid-template-columns: 1fr auto;
+    grid-template-columns: 1.5fr auto;
 }
 
 .gr {
@@ -90,7 +90,7 @@ textarea {
     0% {
         transform: rotate(0deg);
         opacity: 100%;
-       
+
     }
 
     100% {
@@ -204,15 +204,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 138px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 320px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -221,7 +221,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -237,15 +237,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 152px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 220px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -254,7 +254,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -270,15 +270,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 87px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 660px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -287,7 +287,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -303,15 +303,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 100px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 565px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -320,7 +320,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -336,15 +336,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 100px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 536px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -353,7 +353,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -382,7 +382,7 @@ textarea {
         backdrop-filter: blur(2px);
         background-color: rgba(0, 0, 0, 0.7);
     }
-    
+
     .load-content {
         border: 10px solid #fff;
         border-top: 10px solid #C4C4C4;
@@ -392,20 +392,20 @@ textarea {
         height: 100px;
         animation: spin 1s linear infinite;
     }
-    
+
     @keyframes spin {
         0% {
             transform: rotate(0deg);
             opacity: 100%;
-           
+
         }
-    
+
         100% {
             transform: rotate(360deg);
             opacity: 100%;
         }
     }
-    
+
     .modal {
         position: fixed;
         z-index: 1000;
@@ -417,7 +417,7 @@ textarea {
         backdrop-filter: blur(2px);
         background-color: rgba(0, 0, 0, 0.5);
     }
-    
+
     .modal-content {
         background-color: #fefefe;
         margin: 50% auto;
@@ -434,15 +434,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 110px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 360px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -451,7 +451,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -467,15 +467,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 123px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 255px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -484,7 +484,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -500,15 +500,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 123px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 235px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -517,7 +517,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -534,15 +534,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 123px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 215px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -551,7 +551,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -567,15 +567,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 123px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 185px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -584,7 +584,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -600,15 +600,15 @@ textarea {
         padding-bottom: 100px;
         position: relative;
     }
-    
+
     .swiper-button-prev, .swiper-button-next {
         margin-top: 123px;
     }
-    
+
     .swiper-button-prev {
         margin-left: 185px;
     }
-    
+
     .arrowleftNav {
         background-color: #fff;
         padding: 14px 18px;
@@ -617,7 +617,7 @@ textarea {
         bottom: 6px;
         border: 1px solid #F1F1F3;
     }
-    
+
     .arrowrightNav {
         background-color: #fff;
         padding: 14px 18px;

@@ -209,11 +209,11 @@ export default function Form() {
 							<p className='font-[700] text-b text-[15px]'>Sent!</p>
 						</div>
 						<div className='text-black font-[400] text-[14px] md:text-[19px]'>
-							<p className='text-center'>Thank you</p>
+							<p className='text-center'></p>
 							<p className='text-center'>
 								{formData.firstname} {formData.lastname}{' '}
 							</p>
-							<p className='text-center'>for contacting SkillBridge</p>
+							<p className='text-center'></p>
 						</div>
 					</div>
 				</div>
